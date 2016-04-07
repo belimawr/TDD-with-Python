@@ -1,0 +1,7 @@
+Django
+selenium
+elpy==1.3.0
+rope_py3k
+ipython
+ipdb
+django-extensions
